@@ -1,0 +1,51 @@
+[
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com",
+        "position": "Intern",
+        "departament":"Digital"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com",
+        "position": "Software Engineer",
+        "departament":"Digital"
+
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com",
+        "position": "Front-end Developer",
+        "departament":"Digital"
+
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com",
+        "position": "DevOps",
+        "departament":"Digital"
+
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com",
+        "position": "Support",
+        "departament":"Support Derpartament"
+
+      }
+    ]
